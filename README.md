@@ -5,15 +5,12 @@ Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora
 
 "Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir".
 
-[# Contexto de la obra en relación a la 15 Bienal de Artes Mediales puede ser visitada en este enlace:](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
-
 https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/
 
 <a href="https://www.youtube.com/watch?v=RLs-eLYqpXk" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
-
-## Entrevista realizada en la 15 Bienal de Artes Mediales de Santiago, Chile.
+[# Contexto de la obra en relación a la 15 Bienal de Artes Mediales puede ser visitada en este enlace:](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
 
 # * Mycelium
