@@ -1,7 +1,7 @@
 Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
 
 # Bandera de la Unión Micelial.
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/bandera.jpg)]
+![Bandera](https://github.com/mauricixx/mycelia/blob/main/img/bandera.jpg)
 
 Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir.
 
@@ -9,7 +9,7 @@ Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de ma
 
 # Mycelium
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
+![Mycelium](https://github.com/mauricixx/mycelia/blob/main/img/mycexxxxxx-jpg-peq.jpg)
 
 
 
@@ -29,13 +29,13 @@ Imágenes y audio generado por computadora en tiempo real.
 TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
 ```
 
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_control_panel.001.jpeg)](https://rstartdas.github.io/mycelium/)
+![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_control_panel.001.jpeg)
 
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia-controlpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
+![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia-controlpanel_2.001.jpeg)
 
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
+![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_2.001.jpeg)
 
-[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_4.001.jpeg)](https://rstartdas.github.io/mycelium/)
+![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_4.001.jpeg)
 
 
 
