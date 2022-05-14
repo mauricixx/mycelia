@@ -31,11 +31,13 @@ TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processin
 
 ![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_control_panel.001.jpeg)
 
-![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia-controlpanel_2.001.jpeg)
+![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg)
 
-![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_2.001.jpeg)
+![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg)
 
-![Alt text](https://github.com/mauricixx/mycelia/img/mycelia_cpanel_4.001.jpeg)
+![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg)
+
+
 
 
 
