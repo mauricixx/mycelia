@@ -1,6 +1,6 @@
 Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
 
-# - Bandera de la Unión Micelial.
+# * Bandera de la Unión Micelial.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bandera.jpg"  width="480" height="480" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bordando.jpeg" width="480" height="480" />
 
@@ -10,7 +10,7 @@ Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de ma
 
 
 
-# - Mycelium
+# * Mycelium
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
@@ -28,9 +28,11 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 2018 - 2021
 Imágenes y audio generado por computadora en tiempo real. 
 TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
+![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg)
+
 ```
 
-![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_control_panel.001.jpeg)
+![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg)
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg)
 
