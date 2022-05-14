@@ -6,7 +6,9 @@ Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora
 
 # Mycelium
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
-[![Alt text](https://github.com/mauricixx/mycelia/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
+[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
+
+
 
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
@@ -24,13 +26,13 @@ Imágenes y audio generado por computadora en tiempo real.
 TouchDesigner + DAW Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing
 ```
 
-[![Alt text](https://github.com/mauricixx/mycelia/img/mycelia_control_panel.001.jpeg)](https://rstartdas.github.io/mycelium/)
+[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_control_panel.001.jpeg)](https://rstartdas.github.io/mycelium/)
 
-[![Alt text](https://github.com/mauricixx/mycelia/img/mycelia-controlpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
+[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia-controlpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
 
-[![Alt text](https://github.com/mauricixx/mycelia/img/mycelia_cpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
+[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_2.001.jpeg)](https://rstartdas.github.io/mycelium/)
 
-[![Alt text](https://github.com/mauricixx/mycelia/img/mycelia_cpanel_4.001.jpeg)](https://rstartdas.github.io/mycelium/)
+[![Alt text](https://github.com/mauricixx/mycelia/blob/main/img/mycelia_cpanel_4.001.jpeg)](https://rstartdas.github.io/mycelium/)
 
 
 
