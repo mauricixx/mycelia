@@ -13,7 +13,7 @@ Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de ma
 # Mycelium
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
-<video src="https://www.youtube.com/watch?v=ZKf0TUzxX-U" />
+<video src="https://ia803405.us.archive.org/5/items/mycelia-audiovisual-experience_202103/Mycelia_audiovisual_experience.mp4" />
 
 
 
