@@ -4,13 +4,14 @@ Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bandera.jpg"  width="480" height="480" />
 ![bordado](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Bandera_Mycelial_Mauricio_Román_Miranda.jpg)
 
+
 Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir.
 
 
 
 # Mycelium
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
-![Mycelium](https://github.com/mauricixx/mycelia/blob/main/img/mycexxxxxx-jpg-peq.jpg)
+
 
 
 
