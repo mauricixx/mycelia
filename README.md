@@ -1,9 +1,13 @@
-# Mycelium:
-Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática programa en tiempo real desde una computadora.
+Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
 
+# Bandera de la Unión Micelial.
+
+
+
+# Mycelium
+## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 [![Alt text](https://github.com/rstartdas/mycelium/blob/master/img/mycexxxxxx-jpg-peq.jpg)](https://rstartdas.github.io/mycelium/)
 
-## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
 
