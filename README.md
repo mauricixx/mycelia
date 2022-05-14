@@ -1,7 +1,7 @@
 Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
 
 # Bandera de la Unión Micelial.
-![Bandera](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bandera.jpg =250x250)
+![Bandera](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bandera.jpg)
 
 Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir.
 
