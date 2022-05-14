@@ -16,6 +16,7 @@ Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de ma
 <video src="https://ia803405.us.archive.org/5/items/mycelia-audiovisual-experience_202103/Mycelia_audiovisual_experience.mp4" width="480" height="480"></video>
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
+[video link](https://www.youtube.com/watch?v=ZKf0TUzxX-U)
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
 
