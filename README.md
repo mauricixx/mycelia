@@ -9,7 +9,7 @@ Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de ma
 <a href="https://www.youtube.com/watch?v=RLs-eLYqpXk" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
-+ 
+## Entrevista realizada en la 15 Bienal de Artes Mediales de Santiago, Chile.
 
 
 # * Mycelium
