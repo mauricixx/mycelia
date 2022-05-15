@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/bordando.jpeg"  width="480" height="480" />
+
 Mycelia Es un conjunto de experiencias, ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros, los cuales estan energizados con la metáfora de la interconexión de una posible sociedad futura que desarrolle su espiritu cultural en relación a nociones de comunidad, intercambio y trabajo en red.
 
 
