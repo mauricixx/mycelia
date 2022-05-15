@@ -3,8 +3,8 @@
 Mycelia Es un conjunto de experiencias, ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros, los cuales estan energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura, la cual se desarrollaría desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo.
 
 
-+ # Bandera de la Unión Micelial, Nodo Calán.
-+ <span style="color:orange;">Bandera de la Unión Micelial, Nodo Calán</span>
+
++ # <span style="color:green;">Bandera de la Unión Micelial, Nodo Calán</span>
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
 
