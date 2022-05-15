@@ -9,8 +9,8 @@ Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
-La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la Bienal de Artes Mediales de Santiago, Chile.
-https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/
+[La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la Bienal de Artes Mediales de Santiago, Chile.](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
+
 
 
 
