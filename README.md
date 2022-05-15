@@ -4,7 +4,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 
 
 
-## <span style="color:orange;">Bandera de la Unión Micelial, Nodo Calán</span>
+## <span style="color:purple;">Bandera de la Unión Micelial, Nodo Calán</span>
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
 
@@ -19,7 +19,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 ###### La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
 
-## <span style="color:orange;">MYCELIUM</span>
+## <span style="color:purple;">MYCELIUM</span>
 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
@@ -38,6 +38,13 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 <a href="https://www.youtube.com/watch?v=04XJOLoMzUM" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
+<a href="https://ia601803.us.archive.org/26/items/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial.mp4" target="_blank">
+ <img src="https://archive.org/download/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/mycelium-poeticas-para-una-posible-futura-sociedad-micelial.thumbs/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial_000177.jpg" alt="Watch the video" width="480" height="320" border="10" />
+</a>
+
+
+
+
 
 
 Mycelium v.2020: https://rstartdas.github.io/mycelium/
