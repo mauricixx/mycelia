@@ -1,5 +1,4 @@
 Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
-__________________________________
 
 ```markdown
 
@@ -26,7 +25,7 @@ __________________________________
 # * Mycelium: ritual audiovisual generado en vivo.
 
 ```
-## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
+###### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
 
