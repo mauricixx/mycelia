@@ -4,7 +4,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 
 
 
-## <span style="color:purple;">Bandera de la Unión Micelial, Nodo Calán</span>
+## <span style="color:cian;">Bandera de la Unión Micelial, Nodo Calán</span>
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
 
@@ -19,7 +19,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 ###### La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
 
-## <span style="color:purple;">MYCELIUM</span>
+## <span style="color:cian;">MYCELIUM</span>
 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
