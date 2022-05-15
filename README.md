@@ -15,8 +15,6 @@ Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de com
 ###### La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la 15 Bienal de Artes Mediales de Santiago, Chile, 2022.[+ info](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
 
-__________________________________
-
 # Mycelium.
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
@@ -55,14 +53,6 @@ Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg)
 
-
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
 
 
 
