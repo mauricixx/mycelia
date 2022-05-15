@@ -46,7 +46,7 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 ###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile.
 
-## Consola de visuales generativas en tiempo real programa en TouchDesigner.
+## Consola audiovisual generativa programada en TouchDesigner.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg" />
