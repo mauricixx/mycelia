@@ -10,7 +10,8 @@ https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/
 <a href="https://www.youtube.com/watch?v=RLs-eLYqpXk" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
-[# Contexto de la obra en relación a la 15 Bienal de Artes Mediales puede ser visitada en este enlace:](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
+
+La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la Bienal de Artes Mediales de Santiago, Chile.
 
 
 # * Mycelium
