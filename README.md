@@ -48,12 +48,11 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg)
 
-###### Imágenes y audio generado por computadora en tiempo real. 
-###### Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing.
-
-
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg)
 
+###### Imágenes y audio generado por computadora en tiempo real. 
+
+###### Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing.
 
 
 
