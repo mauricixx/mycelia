@@ -29,6 +29,10 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 <a href="https://www.youtube.com/watch?v=ZKf0TUzxX-U" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
+<a href="https://www.youtube.com/watch?v=04XJOLoMzUM" target="_blank">
+ <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.jpeg" alt="Watch the video" width="480" height="320" border="10" />
+</a>
+
 
 Mycelium v.2020: https://rstartdas.github.io/mycelium/
 
