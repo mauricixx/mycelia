@@ -2,10 +2,14 @@ Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de com
 
 
 
-# * Bandera de la Unión Micelial, Nodo Calán. Bosquemuseo, 15 Bienal de Artes Mediales de Sanatiago, Chile 2022.
-
+# Bandera de la Unión Micelial, Nodo Calán.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
+```markdown
+
+Bandera de la Unión Micelial, Nodo Calán. Bosquemuseo, 15 Bienal de Artes Mediales de Sanatiago, Chile 2022.
+
+```
 
 "Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir".
 
@@ -19,14 +23,15 @@ Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de com
 __________________________________
 
 
+# Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
+
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
+
 ```markdown
 
 # * Mycelium: ritual audiovisual generado en vivo.
 
 ```
-###### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
-
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
 
