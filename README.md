@@ -2,7 +2,9 @@ Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de com
 __________________________________
 
 ```markdown
-# * Bandera de la Unión Micelial.
+
+# * Bandera de la Unión Micelial, Nodo Calán. Bosquemuseo, 15 Bienal de Artes Mediales de Sanatiago, Chile 2022.
+
 ```
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
@@ -20,7 +22,9 @@ __________________________________
 
 
 ```markdown
+
 # * Mycelium: ritual audiovisual generado en vivo.
+
 ```
 ## Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 
