@@ -1,10 +1,9 @@
 Mycelia Es un conjunto de ideas, conjuros y rituales que utilizan scripts de computadora como mensajeros. Estos rituales son siempre acompañados por presentaciones audiovisuales que relatan una historia de interconexión rizomática desarrollada en tiempo real desde una computadora.
 
-
-
 # Bandera de la Unión Micelial, Nodo Calán.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
+
 ```markdown
 Bandera de la Unión Micelial, Nodo Calán. Bosquemuseo, 15 Bienal de Artes Mediales de Sanatiago, Chile 2022.
 ```
