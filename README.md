@@ -30,19 +30,9 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
-https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png
-
 Mycelium v.2020: https://rstartdas.github.io/mycelium/
 
 Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
-
-```markdown
-[# Mycelium](https://rstartdas.github.io/mycelium/)
-2018 - 2021
-Imágenes y audio generado por computadora en tiempo real. 
-Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing.
-
-```
 
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg)
@@ -50,6 +40,10 @@ Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg)
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg)
+
+###### Imágenes y audio generado por computadora en tiempo real. 
+###### Programas de computadoras usados: TouchDesigner + Ableton Live + Python + FoxDot, Tidal Cycles, Moc, Processing.
+
 
 ![Alt text](https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg)
 
