@@ -44,6 +44,8 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/presentacionsimbiotika_00.jpeg" />
 
+###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile.
+
 ## Consolas de visuales generativas desarrolladas en TouchDesigner.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg" />
