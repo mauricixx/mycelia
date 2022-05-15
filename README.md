@@ -30,7 +30,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 <a href="https://www.youtube.com/watch?v=04XJOLoMzUM" target="_blank">
- <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.jpeg" alt="Watch the video" width="480" height="320" border="10" />
+ <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
 
