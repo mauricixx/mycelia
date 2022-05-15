@@ -41,14 +41,6 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 </a>
 
 
-
-
-
-
-Mycelium v.2020: https://rstartdas.github.io/mycelium/
-
-Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
-
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/presentacionsimbiotika_00.jpeg" />
 
 ###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile.
