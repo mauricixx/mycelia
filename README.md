@@ -42,10 +42,10 @@ Mycelium v.2018-19: https://rstartdas.github.io/mycelium/mycev.2018.html
 
 
 ## Consolas de visuales generativas desarrolladas en TouchDesigner.
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" width="480" height="270" />
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg" width="480" height="270" />
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg" width="480" height="270" />
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg" width="480" height="270" />
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" />
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_2.001.jpeg" />
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_cpanel_4.001.jpeg" />
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia_control_panel.001.jpeg" />
 
 ###### Imágenes y audio generado por computadora en tiempo real. 
 
