@@ -46,7 +46,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/presentacionsimbiotika_00.jpeg" />
 
-###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile.
+###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile. Fuente utilizada desde los registros de Estudio Simbiotika.
 
 ## Consola audiovisual generativa programada en TouchDesigner.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" />
