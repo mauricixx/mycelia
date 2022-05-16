@@ -34,12 +34,15 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 ### Audiovisuales generativos:
 <a href="https://www.youtube.com/watch?v=ZKf0TUzxX-U" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" />
+   <p>Mycelium</p>
 </a>
 <a href="https://www.youtube.com/watch?v=04XJOLoMzUM" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.png" alt="Watch the video" width="480" height="320" border="10" />
+    <p>Mycelia, una nave fractal cybertribal.</p>
 </a>
 <a href="https://ia601803.us.archive.org/26/items/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial.mp4" target="_blank">
  <img src="https://archive.org/download/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/mycelium-poeticas-para-una-posible-futura-sociedad-micelial.thumbs/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial_000177.jpg" alt="Watch the video" width="480" height="320" border="10" />
+    <p>Mycelium. Protoconsole 2018</p>
 </a>
 
 
