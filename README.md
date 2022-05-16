@@ -14,7 +14,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
-###### La imagen de la Bandera y la entrevista en video son fuentes utilizadas desde los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
+###### Las imágenes de la bandera y entrevista en vídeo son fuentes utilizadas de los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
 
 ## MYCELIUM.
