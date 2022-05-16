@@ -31,7 +31,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 Partiendo desde el paradigma de una red de transferencia simbiótica multidireccional que incide en un ecosistema, se trabaja una performance en vivo, sobre el trabajo mutuo y rizomático existente en el Reino Fungi, modelando una metáfora generada por medio de una unidad dedicada de procesamiento gráfico (GPU), que explora a través de programación computacional interactiva y codificación creativa en vivo, diferentes escenarios audiovisuales reactivos en tiempo real, los cuales relatan un poema generativo sobre el posible futuro de una sociedad micelial en el siglo XXI a partir de la existencia, comportamiento y experiencia de interconexión comunitaria del micelio.
 
 
-#### Audiovisuales generativos:
+### Audiovisuales generativos:
 <a href="https://www.youtube.com/watch?v=ZKf0TUzxX-U" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
