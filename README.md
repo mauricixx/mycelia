@@ -10,7 +10,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 
 "Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual ha sido bordado a mano por el artista, el cual evoca la unión en intercambio de saberes hacia un buen vivir".
 
-<a href="https://www.youtube.com/watch?v=RLs-eLYqpXk" target="_blank">
+<a href="https://www.youtube.com/watch?v=RLs-eLYqpXk](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
 
@@ -31,12 +31,15 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 Partiendo desde el paradigma de una red de transferencia simbiótica multidireccional que incide en un ecosistema, se trabaja una performance en vivo, sobre el trabajo mutuo y rizomático existente en el Reino Fungi, modelando una metáfora generada por medio de una unidad dedicada de procesamiento gráfico (GPU), que explora a través de programación computacional interactiva y codificación creativa en vivo, diferentes escenarios audiovisuales reactivos en tiempo real, los cuales relatan un poema generativo sobre el posible futuro de una sociedad micelial en el siglo XXI a partir de la existencia, comportamiento y experiencia de interconexión comunitaria del micelio.
 
 
-### Audiovisuales generativos:
-<a href="https://www.youtube.com/watch?v=ZKf0TUzxX-U" target="_blank">
- <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" /> Mycelium.
+### Procesos Audiovisuales generativos:
 
 <a href="https://www.youtube.com/watch?v=04XJOLoMzUM" target="_blank">
- <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.png" alt="Watch the video" width="480" height="320" border="10" /> Mycelia, una nave fractal cybertribal.
+ <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelianave.png" alt="Watch the video" width="480" height="320" border="10" /> Mycelia, una nave fractal cybertribal. 2021
+
+ 
+<a href="https://www.youtube.com/watch?v=ZKf0TUzxX-U" target="_blank">
+ <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelium_ytb.png" alt="Watch the video" width="480" height="320" border="10" /> Mycelium. 2020
+
 
 <a href="https://ia601803.us.archive.org/26/items/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial.mp4" target="_blank">
  <img src="https://archive.org/download/mycelium-poeticas-para-una-posible-futura-sociedad-micelial/mycelium-poeticas-para-una-posible-futura-sociedad-micelial.thumbs/Mycelium-Poéticas_para_una_posible_futura_sociedad_micelial_000177.jpg" alt="Watch the video" width="480" height="320" border="10" /> Mycelium Protoconsole 2018.
