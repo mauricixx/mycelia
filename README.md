@@ -22,6 +22,9 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
 
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
+Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
+
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
