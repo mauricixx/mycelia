@@ -22,6 +22,8 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
 
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__003.jpg"/>
+
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
 Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
 
