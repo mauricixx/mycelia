@@ -8,6 +8,7 @@ Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan 
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
 
 
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__005.jpg"/>
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__003.jpg"/>
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__006.jpg" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__027.jpg" />
