@@ -22,12 +22,13 @@ Mycelia. Exposición y Concierto audiovisual en la Universidad Catçolica de Tem
 
 "Una Bandera es una señal de pertenencia en el tiempo. Izada en un mástil de madera, esta bandera alude al micelio, el conjunto de filamentos ramificados que constituye el aparato de interconexión e intercambio de nutrientes entre los hongos y las diferentes especies que cohabitan un bosque. En ésta, se muestra como símbolo central, el dibujo generativo de un micelio en expansión, el cual he bordado a mano, evocando la unión en el intercambio de saberes hacia un buen vivir".
 
-<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
-Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
-
 <a href="https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
+###### Entrevista
+
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
+Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
 
 ###### Las imágenes de la bandera y entrevista en vídeo son fuentes utilizadas de los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
