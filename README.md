@@ -15,7 +15,6 @@ Los rituales audiovisuales son una experiencia que invita a las personas a prese
 
 Mycelia. Exposición y concierto audiovisual en Centro de Extensión de la Universidad Católica de Temuco.
 
-##.
 ## Bandera de la Unión Micelial, Nodo Calán.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
@@ -27,7 +26,7 @@ Mycelia. Exposición y concierto audiovisual en Centro de Extensión de la Unive
 <a href="https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
-###### Entrevista
+###### Entrevista, sobre el proceso creativo de Bancera de la Unión Micelial, realizada por la Corporación Chilena de Vídeo y Artes Electrónicas.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
 Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
