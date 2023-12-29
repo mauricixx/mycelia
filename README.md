@@ -13,8 +13,9 @@ Los rituales audiovisuales son una experiencia que invita a las personas a prese
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__006.jpg" />
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__027.jpg" />
 
-Mycelia. Exposición y Concierto audiovisual en la Universidad Catçolica de Temuco.
+Mycelia. Exposición y concierto audiovisual en Centro de Extensión de la Universidad Católica de Temuco.
 
+##.
 ## Bandera de la Unión Micelial, Nodo Calán.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
