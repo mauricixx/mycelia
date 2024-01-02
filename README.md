@@ -2,7 +2,7 @@
 
 Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan *scripts* de computadora como mensajeros, los cuales estan energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura, la cual se desarrollaría desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo.
 
-## MYCELIUM.
+## * MYCELIUM.
 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
@@ -16,8 +16,8 @@ Los rituales audiovisuales son una experiencia que invita a las personas a prese
 Mycelia. Exposición y concierto audiovisual en Centro de Extensión de la Universidad Católica de Temuco.
 Fotografias: Centro de Extemsión de la Universidad Católica de Temuco.
 
-## *
-## Bandera de la Unión Micelial, Nodo Calán.
+
+## * Bandera de la Unión Micelial, Nodo Calán.
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/banderamicelial.jpg"  width="720" height="480" />
 
@@ -35,7 +35,7 @@ Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura 
 
 ###### Las imágenes de la bandera y entrevista en vídeo son fuentes utilizadas de los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
-## Poética Computacional
+## * Poética Computacional
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycexxxxxx-jpg-peq.jpg" />
 
 El micelio es el conjunto de hifas que forman la parte vegetativa de un hongo y es el principal canal de interconexión e intercambio de nutrientes entre las raíces de las diferentes especies de árboles y plantas que conviven en un bosque. Los micólogos han llamado a la WWW del bosque "Wood Wide Web" en relación con la conocida nomenclatura de la "World Wide Web" que nos mantiene interconectados digital y electrónicamente con el mundo, especialmente en estos tiempos en los que vivimos en la nueva era de una cultura digital. 
