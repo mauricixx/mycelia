@@ -2,7 +2,7 @@
 
 Mycelia es un conjunto de experiencias, ideas, conjuros y rituales que utilizan *scripts* de computadora como mensajeros, los cuales estan energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura, la cual se desarrollaría desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo.
 
-:blue[* MYCELIUM.] 
+## * MYCELIUM.
 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
 Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo,la cual explora paisajes sonoros y visuales inspirados en su forma de red.
