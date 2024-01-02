@@ -28,10 +28,10 @@ Fotografias: Centro de Extemsión de la Universidad Católica de Temuco.
 <a href="https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial" target="_blank">
  <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/entrevista_Bienal_Mauricio.png" alt="Watch the video" width="480" height="320" border="10" />
 </a>
-###### Entrevista realizada por la Corporación Chilena de Vídeo y Artes Electrónicas sobre el proceso creativo de Bancera de la Unión Micelial. 
+###### Entrevista realizada por la Corporación Chilena de Vídeo y Artes Electrónicas sobre el proceso creativo de Bancera de la Unión Micelial
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
-Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
+###### Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
 
 ###### Las imágenes de la bandera y entrevista en vídeo son fuentes utilizadas de los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
