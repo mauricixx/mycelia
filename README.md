@@ -14,7 +14,7 @@ Los rituales audiovisuales son una experiencia que invita a las personas a prese
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_UCT_diciembre2023.jpg"/>
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__027.jpg" />
 
-Mycelia. Exposición y concierto audiovisual en Centro de Extensión de la Universidad Católica de Temuco.
+Mycelia. Concierto audiovisual y exposición en el Centro de Extensión de la Universidad Católica de Temuco.
 Fotografias: Centro de Extemsión de la Universidad Católica de Temuco.
 
 
