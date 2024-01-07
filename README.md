@@ -39,7 +39,7 @@ Fotografias: Centro de Extensión de la Universidad Católica de Temuco.
 ###### Entrevista realizada por la Corporación Chilena de Vídeo y Artes Electrónicas sobre el proceso creativo de Bancera de la Unión Micelial
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/Mycelia_Calan.jpg" />
-###### Mycelia, una nave fractal cybertribal. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
+###### Mycelia, una nave fractal cybertribal. Concierto audiovisual. 6º Encuentro de Arte, Ciencia y Cultura Digital, 15 Bienal de Artes Mediales de Santiago, Cerro Calan. cl, 2022
 
 ###### Las imágenes de la bandera y entrevista en vídeo son fuentes utilizadas de los registros de la [15 Bienal de Artes Mediales de Santiago, Chile, 2022](https://15.bienaldeartesmediales.cl/obras/bandera-de-la-union-micelial/)
 
@@ -71,7 +71,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/presentacionsimbiotika_002.jpeg" />
 
-###### Mycelium en Estudio Simbiotika, 16 enero 2022, Talca, Chile. Fuente utilizada desde los registros de Estudio Simbiotika.
+###### Mycelia, concierto audiovisual en Estudio Simbiotika, 16 enero 2022, Talca, Chile. Fuente utilizada desde los registros de Estudio Simbiotika.
 
 ## Consola audiovisual generativa programada en TouchDesigner.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/mycelia-controlpanel_2.001.jpeg" />
