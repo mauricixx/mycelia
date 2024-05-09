@@ -4,6 +4,8 @@ Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de c
 
 - Desde el año 2018 al 2022 el proyecto se exhibe como una puesta en escena de concierto audiovisual. Durante los años 2023 al 2024, se proyecta por primera vez como una exposición de artes mediales a ser exhibida en espacios y salas de arte contemporánea. De forma inédita, Mycelia se expone como obra inmersiva en la selección oficial de la XII Bienal de Artes de Valparaíso, desde el 19 de abril al 19 de mayo del 2024 en el Parque Cultural de Valparaíso, permitiendo una mayor interacción entre el espectador y el proceso creativo de la obra.
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/myce_biav.jpg"/>
+<img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/myce_biav_x2.jpg"/>
+
 Mycelia. XII Bienal Internacional de Artes de Valparaíso. Selección oficial. 19 abril al 19 de mayo 2024. Parque Cultural de Valparaíso. 
 
 <!-- Mycelia es un conjunto de experiencias audiovisuales, ideas, conjuros y rituales que utilizan *scripts* de computadora como mensajeros, los cuales estan energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura, la cual se desarrollaría desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo. -->
