@@ -2,7 +2,7 @@
 
 Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de computadora como mensajeros de ideas, conjuros y rituales, energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura energizada por su motor de busqueda en constante crecimiento, desarrollado desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo.
 
-- Desde el año 2018 al 2022 el proyecto se exhibe como una puesta en escena de concierto audiovisual. Durante los años 2023 al 2024, Mycelia se exhibe por primera vez como una exposición de artes mediales en salas y espacios de arte contemporánea, permitiendo una mayor interacción con el espectador y su proceso inmersivo como obra de arte.
+- Desde el año 2018 al 2022 el proyecto se exhibe como una puesta en escena de concierto audiovisual. Durante los años 2023 al 2024, Mycelia se exhibe por primera vez como una exposición de artes mediales en salas y espacios de arte contemporánea, permitiendo una mayor interacción entre el espectador y el proceso inmersivo de la obra.
 
 <!-- Mycelia es un conjunto de experiencias audiovisuales, ideas, conjuros y rituales que utilizan *scripts* de computadora como mensajeros, los cuales estan energizados con poesías y metáforas sobre la interconexión de una posible sociedad futura, la cual se desarrollaría desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo. -->
 
