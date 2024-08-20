@@ -4,14 +4,16 @@ Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de c
 
 
 ```
-##### Técnica:
+Producción Técnica:
 Software: Touchdesigner, Ableton Live, Supercollider,
 Tidal Cycles, Python, entorno de terminal Powershell,
 TMUX multiplexor de terminal para sistemas tipo unix.
-
 Sistemas operativos: MacOS, Windows, Linux.
-Dos proyectores de 3500 lúmenes, resolución 1080 píxeles.
-2 Raspberry pi, cables de audio stereo, cables HDMI.
+
+Montaje Técnico:
+2 proyectores de vídeo.
+2 Raspberry Pi con sistema operativo Linux, cables de audio stereo, cables HDMI.
+4 monitores de audio.
 
 ```
 
