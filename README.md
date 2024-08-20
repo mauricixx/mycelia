@@ -4,7 +4,8 @@ Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de c
 
 ##### Técnica:
 ```
-Python, Touchdesigner, Supercollider, Tidal Cycles, Ableton Live, entorno de terminal Powershell, TMUX multiplexor de terminal para sistemas tipo unix.
+Python, Touchdesigner, Supercollider, Tidal Cycles, Ableton Live,
+entorno de terminal Powershell,TMUX multiplexor de terminal para sistemas tipo unix.
 ```
 
   
