@@ -3,7 +3,7 @@
 Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de computadora como mensajeros de ideas, conjuros y rituales, por medio de poéticas y metáforas sobre la interconexión de una posible sociedad futura energizada por su motor de busqueda en constante crecimiento, desarrollado desde su espiritu cultural en relación a nociones y prácticas de comunidad, intercambio y trabajo en red generativo.
 
 
-```python
+```js
 Producción Técnica:
 Software: Touchdesigner, Ableton Live, Supercollider,
 Tidal Cycles, Python, entorno de terminal Powershell,
