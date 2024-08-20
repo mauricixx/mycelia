@@ -4,7 +4,7 @@ Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de c
 
 
 ```js
-Producción Técnica:
+Producción audiovisual en tiempo real:
 Software: Touchdesigner, Ableton Live, Supercollider,
 Tidal Cycles, Python, entorno de terminal Powershell,
 TMUX multiplexor de terminal para sistemas tipo unix.
