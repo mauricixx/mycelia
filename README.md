@@ -101,8 +101,7 @@ Partiendo desde el paradigma de una red de transferencia simbiótica multidirecc
 
 ###### Imágenes y audio generado por computadora en tiempo real. 
 
-###### SWs: TouchDesigner, Ableton Live, Python, FoxDot, Tidal Cycles, Moc, Processing.
-###### OS: GNU/Linux, MacOS, Windows.
+
 
 
 
