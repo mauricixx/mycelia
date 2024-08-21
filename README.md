@@ -4,15 +4,16 @@ Mycelia es un conjunto de experiencias audiovisuales que utilizan *scripts* de c
 
 
 ```
-Producción audiovisual en tiempo real:
-Software: Touchdesigner, Ableton Live, Supercollider,
-Tidal Cycles, FoxDot, Python, Moc, Processing, entorno de terminal Powershell,
-TMUX multiplexor de terminal para sistemas tipo unix.
-Sistemas operativos: MacOS, Windows, Linux.
+-	Producción audiovisual en tiempo real:
+Software: TouchDesigner, Ableton Live, Supercollider, 
+Tidal Cycles, Lenguaje de programación Python, entorno de terminal Powershell, 
+Tmux multiplexor de terminal para sistemas tipo Unix.
+Sistemas operativos: MacOS, Windows, GNU/Linux.
 
-Montaje Técnico:
+-	Montaje Técnico:
 2 proyectores de vídeo.
-2 Raspberry Pi con sistema operativo Linux, cables de audio stereo, cables HDMI.
+3 pantallas LED.
+2 Raspberry Pi con sistema operativo GNU/Linux, cables de audio estéreo, cables HDMI.
 4 monitores de audio.
 
 ```
