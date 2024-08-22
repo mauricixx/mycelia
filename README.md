@@ -31,7 +31,7 @@ Mycelia. XII Bienal Internacional de Artes de Valparaíso. Selección oficial. 1
 ## * MYCELIUM.
 
 ### Poéticas generativas sobre el Reino Fungi a través de la programación computacional en tiempo real.
-Los rituales audiovisuales son una experiencia que invita a las personas a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo, la cual explora paisajes sonoros y visuales inspirados en su forma de red.
+Los rituales o tiempos de ejecución audiovisuales son una experiencia que invita   a presenciar una investigación que he realizado en torno al micelio y su comportamiento colaborativo. El proceso creativo de esta pieza explora paisajes sonoros y visuales inspirados en la forma de red mallada que es el micelio.
 
 
 <img src="https://raw.githubusercontent.com/mauricixx/mycelia/main/img/EXPO_MYCELIA_22112023__005.jpg"/>
